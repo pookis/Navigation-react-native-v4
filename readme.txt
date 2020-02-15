@@ -1,4 +1,4 @@
-This is a simple React Native navigation app with Drawer and Bottom Tabs made with React Navigation v4 and EXPO v3.11.7.
+This is a simple React Native navigation boilerplate app with Drawer and Bottom Tabs made with React Navigation v4 and EXPO v3.11.7.
 
 Install dependancies first for the new project before copying App.js and src folder: 
 
